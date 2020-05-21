@@ -1,6 +1,4 @@
-# Word-Count
-Word Count algorithm to read text file for word count for top ten words
-
+# Word Count
 
 You have been supplied with a folder containing various written works formatted as plaintext files in `./sample_data`.
 Your must write a program that will read the contents of these files and count the number of times each word occurs in
