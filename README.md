@@ -4,6 +4,8 @@ You have been supplied with a folder containing various written works formatted 
 Your must write a program that will read the contents of these files and count the number of times each word occurs in
 the text.  The top 10 results should be printed out with each word (followed by its total number of occurrences) on its own line.
 
+To run application clone repo and run following command in the terminal node wordcount.js and you should see the results
+
 The output for the above paragraph would look as follows:
 files		2
 number  	2
